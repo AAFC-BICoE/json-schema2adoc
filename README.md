@@ -1,4 +1,7 @@
 # json_schema2adoc
+
+⛔️ This project is now archived - No Maintenance Intended
+
 ## Requirements
 - Python3
 - pip
